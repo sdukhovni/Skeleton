@@ -21,7 +21,7 @@ exoskeleton/
 ├── index.html
 ├── css/
 │   ├── normalize.css
-│   └── skeleton.css
+│   └── exoskeleton.css
 └── images/
     └── favicon.ico
 
